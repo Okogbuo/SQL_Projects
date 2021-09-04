@@ -1,3 +1,4 @@
+
 # Data-Analytics
 
 SELECT * --wildcard , it shows everything-- FROM actor;
